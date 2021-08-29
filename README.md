@@ -1,1 +1,4 @@
-# git-labs
+git labs
+========
+
+Elephant Scale Git labs
