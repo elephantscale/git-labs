@@ -6,7 +6,7 @@ system and be able to get famliar with the user interface.
 
 Lab Goals:
 
-1. Install Hadoop in Windows, Mac or Linux.
+1. Install Git in Windows, Mac or Linux.
 2. Start the basic git command line.
 
 == STEP 1)  Install Git.
