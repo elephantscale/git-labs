@@ -27,4 +27,4 @@ Lab Goals:
 	You will receive an email from GitHub
 	Follow the instructions in this email
 
-Follow these instruction: https://help.github.com/articles/using-pull-requests/
+Follow these instructions: https://help.github.com/articles/using-pull-requests/

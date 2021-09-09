@@ -10,9 +10,9 @@ Lab Goals:
 3. Clone on the command line and in the UI
 
 The instructor will prepare a common repository on GitHub, and it will be used for training.
-(If the student group has a internal repository already, the labs will be done in it).
+(If the student group has an internal repository already, the labs will be done in it).
 
-== STEP 1)  Clone git reposiory.
+== STEP 1)  Clone git repository.
 
     The following steps are done in Git Bash if in Windows, and on Terminal, if in Mac/Linux
 
@@ -26,7 +26,7 @@ The instructor will prepare a common repository on GitHub, and it will be used f
 
 == STEP 2) Install your favorite git UI
 
-	This may be an Ecliplse plugin, IDEA or NetBeans plugin,
+	This may be an Eclipse plugin, IDEA or NetBeans plugin,
 	UI that comes with Git install, SmartGit or any other client of your choice
 
 	If you don't plan to use a UI, you can skip this step

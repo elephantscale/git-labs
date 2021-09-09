@@ -9,7 +9,7 @@ Lab Goals:
 2. Get familiar with the three git areas: working, staging, commit
 3. Get a feel for git objects
 
-== STEP 1)  Initialize git reposiory.
+== STEP 1)  Initialize git repository.
 
     The following steps are done in Git Bash if in Windows, and on Terminal, if in Mac/Linux
 

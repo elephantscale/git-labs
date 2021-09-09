@@ -13,7 +13,7 @@ Lab Goals:
 == STEP 1)  Create a conflict
 
 	The easiest way to create a conflict is by cloning your project to another directory,
-	then editing the same file in the same place in both directories, commiting in one directory and 
+	then editing the same file in the same place in both directories, committing in one directory and
 	pulling the changes in the other
 
 	Bonus: create a conflict in a different way (hint: merge branches that have conflicting edits)
